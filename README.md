@@ -61,7 +61,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/yourusername/SmartGreenhouse.git
-````
+```
 
 2. Откройте `teplitsa.ino` в Arduino IDE.
 3. Выберите плату и порт.
